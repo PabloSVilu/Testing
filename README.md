@@ -4,6 +4,11 @@ El Kata escogido para la tarea es "Roman Numerals", extraído e la página https
 
 # Configuración de entorno
 
+Nota: Para esta tarea se ha ocupado el editor VSCode, usando el lenguaje de Python.
+
+1. Clonar repositorio
+   Para clonar el repositorio basta con ejecutar el siguiente comando
+
 ```bash
-Prueba de vista
+git clone https://github.com/PabloSVilu/Testing
 ```
