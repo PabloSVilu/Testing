@@ -1,7 +1,3 @@
 def convert(number):
-    if number == 1:
-        return "I"
-    elif number == 2:
-        return "II"
-    elif number == 3:
-        return "III"
+    if number == 1 or 2 or 3:
+        return "I" * number
