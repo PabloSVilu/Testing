@@ -21,3 +21,5 @@ los test, para probar el código basta con ejecutar el comando:
 ```bash
 pytest test.py
 ```
+
+3- Explicación de lógica
