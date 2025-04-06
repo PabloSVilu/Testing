@@ -1,2 +1,2 @@
 def convert(number):
-    return 0;
+    return "I"

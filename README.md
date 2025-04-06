@@ -1,12 +1,12 @@
 # Tarea TDD
 
-El Kata escogido para la tarea es "Roman Numerals", extraído e la página https://kata-log.rocks/
+El Kata escogido para la tarea es "Roman Numerals", la tarea consiste en crear una función "String convert(int)" que permita pasar de un número entero a su equivalente en número romano (extraído e la página https://kata-log.rocks/).
 
 # Configuración de entorno
 
 Nota: Para esta tarea se ha ocupado el editor VSCode, usando el lenguaje de Python y con la herramienta pytest.
 
-1 Clonar repositorio
+1- Clonar repositorio:
 Para clonar el repositorio basta con ejecutar el siguiente comando
 
 ```bash
