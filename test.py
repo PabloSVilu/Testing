@@ -5,6 +5,7 @@ def test_case_I():
     assert convert(2) == "II"
     assert convert(3) == "III"
     assert convert(4) == "IV"
+    assert convert(5) == "V"
     assert convert(10) == "X"
  
 
