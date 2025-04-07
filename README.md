@@ -13,10 +13,15 @@ En primer lugar hay que crear una carpeta en el que dentro de la carpeta ejecuta
 git clone https://github.com/PabloSVilu/Testing
 ```
 
+Una vez clonado nos tendremos que trasladar a la carpeta con el siguiente comando
+
+```bash
+cd ./Testing
+```
+
 2- Ejecución
 Una vez clonado el repositorio se tomarán en cuenta dos archivos, uno de ellos es "src.py" y el otro "test.py".
-El primero contiene la implementación de lo requerido por la tarea. Y el segundo es el archivo por donde se realizarán
-los test, para probar el código basta con ejecutar el comando:
+El primero contiene la implementación de lo requerido por la tarea. Y el segundo es el archivo por donde se realizarán los test, para probar el código basta con ejecutar el comando
 
 ```bash
 pytest test.py
